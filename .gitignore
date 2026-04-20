@@ -1,0 +1,13 @@
+# Compilación
+out/
+build/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+build.xml
+manifest.mf
